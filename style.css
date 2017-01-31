@@ -1,0 +1,111 @@
+/*with this I have my squares in position that I wish*/
+p {
+	margin-left: 35%;
+}
+/*with this I have my squares in position that I wish*/
+.kocke{
+	padding: 10% 20%;
+}
+
+span {
+	/*manipulating with span element clap,kick,itd...*/
+	font-size: 12px;
+  display: block; /*block beacos I have to manipulate with him*/
+	margin: 0px -5px;
+}
+
+/*with this I have transitions for all boxes squares*/
+#square {
+	transition: all .2s ease;
+}
+
+#square:hover {
+	transform: scale(1.2);
+}
+
+#square.jedan {
+	width: 50px;
+	height: 50px;
+	margin: 10px;
+	background: red;
+	border: 1px solid red;
+	display: inline-block;
+	transition: all .2s ease ;
+}
+.jedan:hover {
+  transform: scale(1.2);
+
+}
+
+#square.dva {
+	width: 50px;
+	height: 50px;
+	margin: 10px;
+	background: red;
+	border: 1px solid red;
+	display: inline-block;
+
+}
+#square.tri {
+	width: 50px;
+	height: 50px;
+	margin: 10px;
+	background: red;
+	border: 1px solid red;
+	display: inline-block;
+
+}
+#square.cetri {
+	width: 50px;
+	height: 50px;
+	margin: 10px;
+	background: red;
+	border: 1px solid red;
+	display: inline-block;
+
+}
+#square.pet {
+	width: 50px;
+	height: 50px;
+	margin: 10px;
+	background: red;
+	border: 1px solid red;
+	display: inline-block;
+
+}
+#square.sest {
+	width: 50px;
+	height: 50px;
+	margin: 10px;
+	background: red;
+	border: 1px solid red;
+	display: inline-block;
+
+}
+#square.sedam {
+	width: 50px;
+	height: 50px;
+	margin: 10px;
+	background: red;
+	border: 1px solid red;
+	display: inline-block;
+
+}
+#square.osam {
+	width: 50px;
+	height: 50px;
+	margin: 10px;
+	background: red;
+	border: 1px solid red;
+	display: inline-block;
+
+}
+#square.devet {
+	width: 50px;
+	height: 50px;
+	margin: 10px;
+	background: red;
+	border: 1px solid red;
+	display: inline-block;
+
+}
